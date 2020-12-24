@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java2Python:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java2Python_jar</output-path>
+    <root id="archive" name="Java2Python.jar">
+      <element id="module-output" name="Java2Python" />
+    </root>
+  </artifact>
+</component>
