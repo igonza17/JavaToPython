@@ -8,7 +8,7 @@ My role was to create the User Interface and display the output. Also i contribu
 Conversion of diferent data types
 ![img1](Screenshots/img1.png)
 
-Conversiont of If and Else statements and For Loops 
+Conversion of If and Else statements and For Loops 
 ![img2](Screenshots/img2.png)
 
 Conversion of Try/Catch Statements & Classes & Java Access Modifiers
