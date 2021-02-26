@@ -10,14 +10,14 @@ Functions i contrubuted: (For Loops, Try/Catch Commands, Break/Continue Commands
 **Conversion of diferent data types**
 ![img1](Screenshots/img1.png)
 
-**Conversion of If and Else statements and For Loops 
+**Conversion of If and Else statements and For Loops**
 ![img2](Screenshots/img2.png)
 
-**Conversion of Try/Catch Statements & Classes & Java Access Modifiers
+**Conversion of Try/Catch Statements & Classes & Java Access Modifiers**
 ![img3](Screenshots/img3.png)
 
-**Conversion of Arrays of Int and String Type
+**Conversion of Arrays of Int and String Type**
 ![img4](Screenshots/img4.png)
 
-**Conversion of Object Oriented Programming 
+**Conversion of Object Oriented Programming**
 ![img5](Screenshots/img5.png)
